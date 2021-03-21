@@ -7,7 +7,7 @@ A simple React application to generate & scan barcode.
 - __Clone this repo__:
 
   ```bash
-  $ git clone https://github.com/LintangWisesa/React-QR-Scanner-Generator.git
+  $ git clone https://github.com/LintangWisesa/React-Barcode-Generator-Scanner.git
   $ npm i
   $ npm start
   ```
