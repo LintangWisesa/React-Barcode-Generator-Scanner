@@ -4,6 +4,12 @@
 
 A simple React application to generate & scan barcode. 
 
+- __Demo__:
+
+  Click the following picture to see the demo video:
+
+  [![Video](https://img.youtube.com/vi/A0tRKgbmbIg/0.jpg)](https://youtu.be/A0tRKgbmbIg)
+
 - __Clone this repo__:
 
   ```bash
